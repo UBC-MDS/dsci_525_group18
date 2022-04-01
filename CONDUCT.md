@@ -33,7 +33,7 @@ Our Code of Conduct not only applies to project and non-project spaces (be it ph
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the `525-group18` team member at <lnrao@student.ubc.ca>. The project team will review and investigate all complaints, and will respond in a manner that is timely and appropriate to the circumstance. The project team is required to maintain confidentiality regarding the identity of the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the `dsci_525_group18` team member at <lnrao@student.ubc.ca>. The project team will review and investigate all complaints, and will respond in a manner that is timely and appropriate to the circumstance. The project team is required to maintain confidentiality regarding the identity of the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
