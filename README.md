@@ -1,7 +1,11 @@
 # DSCI 525 Milestone 1 - Group 18
+2022-04-01
 
 ## Objective
 The objective of this project is to analyze the modelled daily rainfall dataset over NSW, Australia, spanning 1889- 2014. The dataset can be found [here](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681). 
+
+## Notebook
+Our analysis can be found in the Jupyter Notebook [here](https://github.com/UBC-MDS/dsci_525_group18/blob/main/notebooks/milestone_1.ipynb)
 
 ## Requirements
 * Work on the dataset locally on our laptops, using vanilla CSV files
