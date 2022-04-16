@@ -1,5 +1,5 @@
 # DSCI 525 Milestone 1 - Group 18
-2022-04-01
+2022-04-16
 
 ## Objective
 In the world of big data, traditional data processing techniques on personal computers is not computationally feasible. Cloud computing and storage offer a cost effective resource and time efficient alternative, with the additional advantage that they require no maintenance by an individual or a firm. 
