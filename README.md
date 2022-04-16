@@ -2,17 +2,20 @@
 2022-04-01
 
 ## Objective
-The objective of this project is to analyze the modelled daily rainfall dataset over NSW, Australia, spanning 1889- 2014. The dataset can be found [here](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681). 
+In the world of big data, traditional data processing techniques on personal computers is not computationally feasible. Cloud computing and storage offer a cost effective resource and time efficient alternative, with the additional advantage that they require no maintenance by an individual or a firm. 
+
+The objective of this project is to analyze the modelled daily rainfall dataset over NSW, Australia, spanning 1889- 2014. In particular, we will be building and deploying ensemble machine learning models over four milestones in the cloud to predict daily rainfall in Australia on a large dataset (~6 GB). By building an ensemble model, we will compare the results with actual rainfall and existing individual rainfall models in terms of error. We finally will deploy the ML model on the cloud. 
+
+The dataset can be found [here](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681).  
 
 ## Notebook
-Our analysis can be found in the Jupyter Notebook [here](https://github.com/UBC-MDS/dsci_525_group18/blob/main/notebooks/milestone_1.ipynb)
+Our analysis for each milestone can be accessed below:
 
-## Requirements
-* Work on the dataset locally on our laptops, using vanilla CSV files
-* Compare run times on different machines for the following task:
-  * Combining data CSVs
-  * Loading CSV into memory, and peform simple EDA
-* Transfer dataframe from python to R and perform the same EDA
+**Milestone 1:** [here](https://github.com/UBC-MDS/dsci_525_group18/blob/main/notebooks/milestone_1.ipynb)
+
+**Milestone 2:** [here](https://github.com/UBC-MDS/dsci_525_group18/blob/main/notebooks/Milestone2.ipynb)
+
+**Milestone 3:** 
 
 ## Team Members
 * Karanpreet Kaur
