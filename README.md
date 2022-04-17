@@ -1,4 +1,4 @@
-# DSCI 525 Milestone 1 - Group 18
+# DSCI 525 - Group 18
 2022-04-16
 
 ## Objective
