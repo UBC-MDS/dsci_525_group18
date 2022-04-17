@@ -15,7 +15,7 @@ Our analysis for each milestone can be accessed below:
 
 **Milestone 2:** [here](https://github.com/UBC-MDS/dsci_525_group18/blob/main/notebooks/Milestone2.ipynb)
 
-**Milestone 3:** 
+**Milestone 3:** [here](https://github.com/UBC-MDS/dsci_525_group18/tree/main/notebooks/milestone_3)
 
 ## Team Members
 * Karanpreet Kaur
